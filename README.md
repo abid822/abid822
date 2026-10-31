@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://abidur.net"><img alt="Website" src="https://img.shields.io/badge/Website-abidur.net-blue?style=for-the-badge"/></a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
