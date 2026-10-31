@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Abidur Chowdhury</h1>
+<h3 align="center">Software Test Automation Engineer</h3>
 
-<!--
-**abid822/abid822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I build reliable, maintainable test automation for complex applications,<br/>
+  from desktop UIs to modern web apps.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Squish-3B4D61?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧪 What I do
+- Design and maintain UI automation frameworks in **Python**
+- Desktop GUI automation with **Squish**; web E2E testing with **Playwright + Pytest**
+- Requirements-based verification with clear traceability and evidence
+- Visual regression testing and readable, shareable test reports
+
+### 🚀 Featured project
+**[pytest-playwright](https://github.com/abid822/pytest-playwright)** — an end-to-end test framework for a large e-commerce site
+- Page Object Model with separate locator modules and environment-based config
+- Visual regression testing with pixel-diff baselines
+- HTML reports with failure screenshots
+- Coverage across search, pagination, cart, navigation, login, and language settings
+
+### 🎯 Open to
+Full-time Software Test / QA Automation roles (onsite, hybrid, or remote; open to relocation)
